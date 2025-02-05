@@ -8,11 +8,5 @@
     "percentToQualify": 70,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "iXRC",
-            "link": "https://www.youtube.com/watch?v=koPY3JjCSrk",
-            "percent": 100,
-            "hz": "?"
-        }
     ]
 }
