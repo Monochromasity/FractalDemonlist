@@ -9,10 +9,16 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Unknown",
+            "user": "iXRC",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-            "percent": 0,
-            "hz": 0
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Monochromasity",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
