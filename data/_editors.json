@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "Jyxa",
         "link": "https://www.youtube.com/@Jyxa."
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "Jyxa",
         "link": "https://www.youtube.com/@Jyxa."
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "Jyxa",
         "link": "https://www.youtube.com/@Jyxa."
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "Jyxa",
         "link": "https://www.youtube.com/@Jyxa."
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Jyxa",
         "link": "https://www.youtube.com/@Jyxa."
     }
 ]
